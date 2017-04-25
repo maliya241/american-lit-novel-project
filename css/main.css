@@ -45,7 +45,7 @@ ul {
   margin-right: auto;
 }
 
-.quickfacts {
+.quickfacts, .authorheading {
   margin-top: 1.5em;
 }
 
