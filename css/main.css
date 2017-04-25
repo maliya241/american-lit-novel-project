@@ -16,7 +16,7 @@ img {
   max-width: 100%;
   border: 5px solid #82AACC;
   border-radius: 10px;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 
 h3 {
@@ -53,7 +53,7 @@ Heading
 header {
   float: left;
   margin: 0 0 30px 0;
-  padding: 5px 0 0 0;
+  padding-top: 5px;
   width: 100%;
 }
 
@@ -104,7 +104,7 @@ Footer
 ***********************/
 
 footer { 
-  font-size: 0.75em;
+  font-size: 1em;
   text-align: center;
   clear: both;
   padding-top: 5px;
@@ -160,56 +160,4 @@ footer {
 
 footer p {
   color: #ECF3F9;
-}
-
-/***********************
-Table
-***********************/
-
-*, *:before, *:after {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-table {
-  max-width: 960px;
-  margin: 10px auto;
-}
-
-caption {
-  font-size: 1.6em;
-  font-weight: 400;
-  padding: 10px 0;
-  background: #2D7A38;
-  color: #fff;
-}
-
-thead th {
-  font-weight: 400;
-  color: #2D7A38;
-}
-
-tr {
-  background: #f4f7f8;
-  border-bottom: 1px solid #FFF;
-  margin-bottom: 5px;
-  color: #2D7A38;
-}
-
-th, td {
-  text-align: left;
-  padding: 20px;
-  font-weight: 300;
-}
-
-tfoot tr {
-  background: none;
-}
-
-tfoot td {
-  padding: 10px 2px;
-  font-size: 0.8em;
-  font-style: italic;
-  color: #88b1bb;
 }
