@@ -16,6 +16,7 @@ img {
   max-width: 100%;
   border: 5px solid #82AACC;
   border-radius: 10px;
+  margin-bottom: 1em;
 }
 
 h3 {
@@ -43,10 +44,6 @@ ul {
 .authorphoto, .charactermap {
   margin-left: auto;
   margin-right: auto;
-}
-
-.quickfacts, .authorheading {
-  margin-top: 1.5em;
 }
 
 /***********************
