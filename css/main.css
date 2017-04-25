@@ -200,10 +200,6 @@ tr {
   color: #2D7A38;
 }
 
-/*tr:nth-child(even) {
-  background: #e8eeef;
-}*/
-
 th, td {
   text-align: left;
   padding: 20px;
